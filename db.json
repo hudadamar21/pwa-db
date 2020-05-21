@@ -1,0 +1,24 @@
+{
+"product" : [
+      {"id":1,"nama":"Denys Capps","category":"Red"},
+      {"id":2,"nama":"Astrix Scorer","category":"Yellow"},
+      {"id":3,"nama":"Ainslee Matton","category":"Orange"},
+      {"id":4,"nama":"Angil Brind","category":"Turquoise"},
+      {"id":5,"nama":"Stern Schistl","category":"Puce"},
+      {"id":6,"nama":"Lukas Potebury","category":"Khaki"},
+      {"id":7,"nama":"Emelia Garn","category":"Maroon"},
+      {"id":8,"nama":"Kandace McClements","category":"Goldenrod"},
+      {"id":9,"nama":"Nesta McVee","category":"Maroon"},
+      {"id":10,"nama":"Clarence Constance","category":"Red"},
+      {"id":11,"nama":"Burr Billison","category":"Teal"},
+      {"id":12,"nama":"Georgena Obington","category":"Violet"},
+      {"id":13,"nama":"Kelbee Platfoot","category":"Yellow"},
+      {"id":14,"nama":"Adena Shew","category":"Fuscia"},
+      {"id":15,"nama":"Stillmann Piddock","category":"Fuscia"},
+      {"id":16,"nama":"Constanta Froude","category":"Fuscia"},
+      {"id":17,"nama":"Nealon Kirkbright","category":"Khaki"},
+      {"id":18,"nama":"Angel Bolgar","category":"Violet"},
+      {"id":19,"nama":"Cahra Deny","category":"Blue"},
+      {"id":20,"nama":"Terra Caswell","category":"Purple"}
+  ]
+}
